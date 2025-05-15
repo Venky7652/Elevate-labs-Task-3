@@ -6,3 +6,5 @@
 ***Used Aggregate Functions(SUM, AVERAGE)***,
 ***Created views for Analysis***.
 [Uploading Screenshot 2025-04-24 222601.pdf…]()
+[SQL.zip](https://github.com/user-attachments/files/20230722/SQL.zip)
+
